@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-ruby "2.7.0"
+ruby "2.8.0"
 group :production do 
   gem "puma"  
 end
